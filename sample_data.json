@@ -1,0 +1,38 @@
+{
+      "students": [
+        { "id": 1, "name": "Anna Arden", "major": 1},
+        { "id": 2, "name": "Bobby Brown", "major": 6 },
+        { "id": 3, "name": "Cara Conway", "major": 10},
+        { "id": 4, "name": "Dever Downing", "major": 2},
+        { "id": 5, "name": "Elizabeth Elzinga", "major": 7},
+        { "id": 6, "name": "Fred Fawn","major": 8 },
+        { "id": 7, "name": "George Grounds","major": 9 },
+        { "id": 8, "name": "Harold Hawthorne","major": 1 },
+        { "id": 9, "name": "Ingrid Ingle","major": 7},
+        { "id": 10, "name": "Jenna Juniper","major": 5}
+      ],
+      "majors": [
+        { "id": 1,"major_name": "Astronomy" },
+        { "id": 2,"major_name": "Architecture" },
+        { "id": 3,"major_name": "Biology" },
+        { "id": 4, "name": "Computer Science" },
+        { "id": 5, "name": "Political Science" },
+        { "id": 6, "name": "History" },
+        { "id": 7, "name": "Environmental Science" },
+        { "id": 8, "name": "English" },
+        { "id": 9, "name": "Mechanical Engineering" },
+        { "id": 10, "name": "Electrical Engineering" }
+      ],
+      "Dorm": [
+        { "id": 1,"major_name": "Buildling A" },
+        { "id": 2,"major_name": "Buildling B" },
+        { "id": 3,"major_name": "Buildling C" },
+        { "id": 4, "name": "Building D" },
+        { "id": 5, "name": "Building E"},
+        { "id": 6, "name": "Building F" },
+        { "id": 7, "name": "Building G" },
+        { "id": 8, "name": "Building H" },
+        { "id": 9, "name": "Building I" },
+        { "id": 10, "name": "Building J" }
+      ]
+}
